@@ -1,4 +1,4 @@
-Appendix: Genius Bar Work Authorizations
+Appendix A: Genius Bar Work Authorizations
 ---
 
 I suspect most of the training Apple Store Geniuses receive pertains to dealing with irate customers. The general bewilderment displayed when I open up a terminal in front of them suggests the training is not tech related. However, I still expected them to properly transcribe experiences. Below are my Apple Store Work authorizations. I comment on each one below the quote blocks.

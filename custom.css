@@ -7,5 +7,6 @@ table{border:1px solid #000;}
 th{background:#000; color: #fff; padding:3px;}
 tr:nth-child(even) { background: #CCC}
 tr:nth-child(odd) { background: #FFF}
+code{font-size:x-small; word-wrap: break-word;}
 td{padding:3px;}
 </style>
