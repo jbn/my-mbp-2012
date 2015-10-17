@@ -1,5 +1,5 @@
 The Retina Ghosting / Image Persistence Issue
-===
+---
 There have been problems with my MBP Retina Display since day one. It's not an uncommon problem.  Apple offers an [official solution on their support pages](https://support.apple.com/en-us/HT202580). Basically, it's "**use a screen saver**." Thanks, Apple. That's not my problem. And, you -- you personified corporation, you -- know it. And I know you know it. How?
 
 Well, for one, the Apple-hosted discussion boards are overflowing with complaints on this exact issue. For (just one) example, see [this thread](https://discussions.apple.com/thread/4034848?start=15) started **June 21th, 2012**. It has **1,700,172 views** and **9,614 replies**. Admittedly, the discussion forums rarely have any official Apple sanction responses. As far as I can tell, it exists as a pressure bleed valve. People get angry and yell at virtual Apple, slaking their incipient blood-lust for revenge. Then, they go back to doing what they were doing. It's about as effective at yelling at a rock. That's doubly true for the many [YouTube videos demonstrating the issue](https://www.youtube.com/results?search_query=mbp+retina+ghosting&search_sort=video_view_count), many of which have 100,000+ views.
