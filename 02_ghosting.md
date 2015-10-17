@@ -6,9 +6,9 @@ Well, for one, the Apple-hosted discussion boards are overflowing with complaint
 
 But, there is a better example of Apple knowing about the problem and actively choosing to ignore it. [Beau Hodges tried to put together a class action law suit against them](http://arstechnica.com/apple/2013/03/apple-hit-with-class-action-lawsuit-over-defective-retina-displays/). [U.S. District Judge William H. Orrick](https://en.wikipedia.org/wiki/William_H._Orrick_III) foolishly [threw it out](http://topclassactions.com/lawsuit-settlements/lawsuit-news/4749-judge-dismisses-macbook-retina-display-class-action-lawsuit/) "[b]ecause, fundamentally, Hodges [did] not [identify] any affirmative misrepresentation made by Apple." Okay, so legally Apple got away with it. But, obviously they knew about it. And, no, **it is a misrepresentation to professionals who use computers**. As you may be aware, a lot of Mac owners like to create things, especially visual art. Often, visual art must be pixel perfect. It is very hard to achieve such perfection if the screen doesn't represent the pixels properly in the first place. Although, to be fair, it's not clear that Apple could have done a full (and appropriate) recall. [It's a very cash-poor company](http://techcrunch.com/2015/07/21/apple-now-has-203-billion-in-cash-on-hand/#.owio6q:vO3h).
 
-#### What mine looked like
+#### What mine looked like...
 
-<div class="video"><iframe width="640" height="480" src="https://www.youtube.com/embed/3CSaf7ifcLM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video"><iframe width="640" height="480" src="https://www.youtube.com/embed/qjl3pMfTaJQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 #### My Experience Summary
 
