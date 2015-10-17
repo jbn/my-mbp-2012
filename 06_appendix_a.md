@@ -1,7 +1,7 @@
 Appendix A: Genius Bar Work Authorizations
 ---
 
-I suspect most of the training Apple Store Geniuses receive pertains to dealing with irate customers. The general bewilderment displayed when I open up a terminal in front of them suggests the training is not tech related. However, I still expected them to properly transcribe experiences. Below are my Apple Store Work authorizations. I comment on each one below the quote blocks.
+I suspect most of the training Apple Store Geniuses receive pertains to dealing with irate customers. The general bewilderment displayed when I open up a terminal in front of them suggests the training is not tech-related. However, I still expected them to properly transcribe experiences. Below are my Apple Store Work authorizations. I comment on each one below the quote blocks.
 
 #### Apple Store Georgetown, 21-Mar-13
 
@@ -71,7 +71,7 @@ They solved my problem by **blowing compressed air** into my machine. Unexpected
 
 > Employee XXXXXXXXXX
 
-Two years later, I had a week off where I could afford to be without a computer. So, I went again. Plus, some new issues were percolating. This time, I understood more about the Genius Bar process. That is, it's about customer management, not technical support. I went in with images and videos to demonstrate the problem, and to intimate that -- yes, I have durable evidence. The Genius recorded the problem in a more accurate way. 
+Two years later, I had a week off where I could afford to be without a computer. So, I went again. Plus, some new issues were percolating. This time, I understood more about the Genius Bar process. That is, *it's about customer management, not technical support*. I went in with images and videos to demonstrate the problem, and to intimate that -- yes, I have durable evidence. The Genius recorded the problem in a more accurate way. 
 
 Apple responded with Apple-typical bravado. They **replaced the Logic Board**. Once again, unexpectedly, this did not solve the persistence problem. It also had no effect on the visual distortions. I suspect the video card produces them, but I'm not hardware specialist. 
 
@@ -104,6 +104,6 @@ Apple responded with Apple-typical bravado. They **replaced the Logic Board**. O
 
 > Employee XXXXXXXX
 
-The employee at this store was great. I came in angry. I told him from the get-go, "I'm angry. I'm not directing this at you. I know you have no responsibility here. But, this is bullshit." He was calm, and meticulously documented everything I was saying. And, by now, the screen was the least of my concerns. The daily onslaught of fully-halting kernel panics was more of a problem.
+The employee at this store was great (not sarcasm). I came in angry. I told him from the get-go, "I'm angry. I'm not directing this at you. I know you have no responsibility here. But, this is bullshit." He was calm, and meticulously documented everything I was saying. And, by now, the screen was the least of my concerns. The daily onslaught of fully-halting kernel panics was more of a problem.
 
 A week later, behold! After three years, **they replaced the LG display**! Way to be a stand-up corporate citizen, Apple! As for the kernel panics, they went with the tried-and-true approach. They **replaced the Logic Board, again**. Unexpectedly, this did not fix the kernel panics. And, it did not fix the video distortion problem, either. 
