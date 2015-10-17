@@ -1,2 +1,2 @@
 all:
-	pandoc --smart 0*.md -s -o index.html
+	pandoc --smart --include-in-header custom.css 0*.md -s -o index.html
